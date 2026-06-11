@@ -2,17 +2,6 @@
 
 This repository contains the data, analysis scripts, and documentation for the characterization of trap states in p-GaN/AlGaN/GaN High Electron Mobility Transistors (HEMTs). The research was conducted during an internship project at the **Department of Electronic Systems Engineering (DESE), Indian Institute of Science (IISc), Bengaluru**[cite: 1].
 
----
-
-## Project Team & Affiliations
-
-* **Pratyush Panda** – National Institute of Technology (NIT), Delhi[cite: 1].
-* **Avirup Gantait** – National Institute of Technology (NIT), Rourkela[cite: 1].
-* **Priyanshu Saurabh** – National Institute of Electronics & Information Technology (NIELIT), Chhatrapati Sambhajinagar[cite: 1].
-
-### Guidance & Mentorship
-* **Project Guide:** Prof. Mayank Shrivastava (Professor & Chair, DESE, IISc Bengaluru)[cite: 1].
-* **PhD Mentor:** Vettrivelan M. (PhD Scholar, DESE, IISc Bengaluru)[cite: 1].
 
 ---
 
