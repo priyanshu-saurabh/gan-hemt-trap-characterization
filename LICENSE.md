@@ -2,12 +2,11 @@
 
 ### `LICENSE`
 
-The **MIT License** is standard for sharing academic code and data structures openly while protecting you from liability.
 
 ```text
 MIT License
 
-Copyright (c) 2026 Pratyush Panda, Avirup Gantait, Priyanshu Saurabh
+Copyright (c) 2026 Priyanshu Saurabh
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
