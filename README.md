@@ -44,9 +44,10 @@ Through Rate Window sampling and Arrhenius plotting, two dominant deep-level tra
 ## Repository Structure
 
 ```text
-├── data/                 # Raw I-V, IVT, and I-DLTS transient data files
-├── scripts/              # MATLAB / Python scripts for Arrhenius and Rate Window analysis
 ├── docs/                 # Full Project Report copy and presentation materials
+├── figures/              
+├── literature-reviews/
+├── results/               
 ├── LICENSE               # MIT License
 └── README.md             # Project Documentation
 License
