@@ -10,7 +10,7 @@ The forward bias I-V characteristics exhibit a nonlinear, exponential current tr
 
 Under reverse bias, leakage current remains low at low electric fields but increases significantly at elevated reverse voltages[cite: 1]. This behavior points to field-assisted conduction pathways operating in the high-field domain, including Poole-Frenkel emission, trap-assisted tunneling, and thermionic field emission[cite: 1].
 
-![Figure 5.1: Forward Bias I-V and C-V Characteristics](figures/2d_plots/figure_5_1.png)
+![Figure 5.1: Forward Bias I-V and C-V Characteristics](https://github.com/priyanshu-saurabh/gan-hemt-trap-characterization/blob/main/figures/f1.png)
 > *Figure 5.1: Measured forward bias I-V characteristics and C-V sweep profiles of the investigated p-GaN HEMT structure[cite: 1].*
 
 ---
@@ -24,11 +24,10 @@ In the reverse bias regime, leakage current increases tracking the temperature g
 * **Intermediate-field region:** Dominated by ideal thermionic emission over the barrier[cite: 1].
 * **High-field region:** Governed by field-enhanced, trap-assisted carrier emission processes[cite: 1].
 
-![Figure 5.2: Temperature-Dependent I-DLTS Spectrum Peak](figures/2d_plots/figure_5_2.png)
+![Figure 5.2: Temperature-Dependent I-DLTS Spectrum Peak](https://github.com/priyanshu-saurabh/gan-hemt-trap-characterization/blob/main/figures/f2q.png)
 > *Figure 5.2: Temperature-dependent I-DLTS spectrum showing a prominent trap-assisted transient response peak situated around 420 K to 440 K[cite: 1].*
 
-![Figure 5.3: Distributed Trap I-DLTS Spectrum](figures/2d_plots/figure_5_3.png)
-> *Figure 5.3: I-DLTS spectrum captured under alternative transient timing conditions illustrating a distributed defect signature[cite: 1].*
+
 
 ---
 
@@ -48,7 +47,7 @@ Current-based Deep Level Transient Spectroscopy isolates specific defect centers
 
 The broad geometry of the identified peaks indicates that instead of an isolated single-energy point defect, the heterostructure possesses distributed trap states[cite: 1]. This broadening is characteristic of GaN material systems where defect non-uniformity, threading dislocations, and buffer-layer carbon impurities overlap[cite: 1].
 
-![Figure 5.4: 3D Visualization of Transient Current Response](figures/3d_visualizations/figure_5_4.png)
+![Figure 5.4: 3D Visualization of Transient Current Response](https://github.com/priyanshu-saurabh/gan-hemt-trap-characterization/blob/main/figures/f3.png)
 > *Figure 5.4: Three-dimensional map showing current transient amplitude tracking simultaneously against the temperature and time domain axes, highlighting peak activation near 420 K[cite: 1].*
 
 ---
@@ -61,10 +60,10 @@ $$\ln\left(\frac{e_n}{T^2}\right) = \ln(C) - \frac{E_a}{kT}$$
 
 The slope of the linear fit yields the trap activation energy ($E_a$), while the intercept determines the capture cross-section ($\sigma_n$)[cite: 1]. 
 
-![Figure 5.5: Arrhenius Plot for Trap T1](figures/2d_plots/figure_5_5.png)
+![Figure 5.5: Arrhenius Plot for Trap T1](https://github.com/priyanshu-saurabh/gan-hemt-trap-characterization/blob/main/figures/f4.png)
 > *Figure 5.5: Arrhenius regression plot extracting a moderately deep trap activation energy for the T1 center[cite: 1].*
 
-![Figure 5.6: Arrhenius Plot for Trap T2](figures/2d_plots/figure_5_6.png)
+![Figure 5.6: Arrhenius Plot for Trap T2](https://github.com/priyanshu-saurabh/gan-hemt-trap-characterization/blob/main/figures/f5.png)
 > *Figure 5.6: Arrhenius regression plot extracting a deeper trap state configuration corresponding to the T2 center[cite: 1].*
 
 ### Extracted Deep-Level Trap Parameters
@@ -78,12 +77,6 @@ The final physical parameters computed from the Arrhenius experimental sequences
 
 ---
 
-## 5.7 Rate Window Analysis Results
-
-Altering the rate window parameters causes a systematic shift in the temperature at which the maximum DLTS signal occurs[cite: 1]. Smaller rate windows emphasize slower emission dynamics, moving the peak positions toward lower temperature bands[cite: 1]. Conversely, larger rate windows evaluate fast carrier dynamics, forcing the transient peaks toward higher temperature regimes[cite: 1].
-
-![Figure 5.7: Rate Window Peak Shifting Behavior](figures/2d_plots/figure_5_7.png)
-> *Figure 5.7: Multi-rate-window overlay of the DLTS spectra illustrating systematic peak temperature translation with varying observation timing windows[cite: 1].*
 
 ---
 
