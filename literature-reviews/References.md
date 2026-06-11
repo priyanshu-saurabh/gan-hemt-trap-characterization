@@ -1,6 +1,6 @@
 # References
 
-[cite_start]This file contains the complete list of academic papers, reference textbooks, and technical documentation cited in this project report.
+This file contains the complete list of academic papers, reference textbooks, and technical documentation cited in this project report.
 
 ---
 
@@ -35,4 +35,4 @@
 
 ## Technical Manuals & Instrumentation Documentation
 
-* [cite_start]**[20]** Automated acquisition programming notes, diagnostic data logs, user manuals, and technical specification documentation retrieved from the Semetrol Cryogenic Characterization platform and associated interface software configurations utilized during deep-level transient measurements.
+* **[20]** Automated acquisition programming notes, diagnostic data logs, user manuals, and technical specification documentation retrieved from the Semetrol Cryogenic Characterization platform and associated interface software configurations utilized during deep-level transient measurements.
